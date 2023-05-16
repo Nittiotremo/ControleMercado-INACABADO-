@@ -1,0 +1,3 @@
+Páginas web - home.jsp, index.jsp
+Controller - efetuarLogin, EfetuarLogout
+filter - requestFilter
